@@ -3,7 +3,7 @@ name = "docs"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "3.12.4"
+python = "3.13.2"
 mkdocs = "1.6.0"
 mkdocs-material = { version = "9.5.28", extras = ["imaging"] }
 mike = "2.1.2"
